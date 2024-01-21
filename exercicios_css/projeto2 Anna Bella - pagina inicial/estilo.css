@@ -1,0 +1,20 @@
+.fundo{
+    background: url(imagens/fundo.png);
+}
+
+#menu_texto{
+    font-size: 25px;
+    margin: 10px;
+    color: #254297;
+    
+}
+
+#capa{
+    background-color: black;
+    width: 75%;
+}
+
+#menu{
+    background-color: burlywood;
+    width: 75%;
+}
